@@ -1,7 +1,7 @@
 # kali_xfce_ChromeOS
 bash script to install kali linux wit xfce desktopenviroment on ChromeBooks
 
-Changelog: Chached public keyring & added dependencies
+Changelog: Chached public keyring - added dependencies - added some install options
 
 ****
 
@@ -13,8 +13,8 @@ Name yourself kali when setting up Linux developer enviroment.
 
 1. git clone https://github.com/JJ1980-1/kali_xfce_ChromeOS.git
 2. cd kali_xfce_ChromeOS
-3. chmod +x kali_xfce_ChromeOS_2.0.sh
-4. sudo ./kali_xfce_ChromeOS_2.0.sh
+3. chmod +x kali_xfce_ChromeOS_2.1.sh
+4. sudo ./kali_xfce_ChromeOS_2.1.sh
 5. When done right click terminal icon and choose shut down linux.
 6. type gxd in terminal to start desktop
 
@@ -24,8 +24,8 @@ With more options:
 
 1. git clone https://github.com/JJ1980-1/kali_xfce_ChromeOS.git
 2. cd kali_xfce_ChromeOS
-3. chmod +x kali_xfce_ChromeOS_2.0.1.sh
-4. sudo ./kali_xfce_ChromeOS_2.0.1.sh
+3. chmod +x kali_xfce_ChromeOS_2.1.1.sh
+4. sudo ./kali_xfce_ChromeOS_2.1.1.sh
 5. When done right click terminal icon and choose shut down linux.
 6. type gxd in terminal to start desktop
 
@@ -33,13 +33,13 @@ With more options:
 
 One command installs:
 
-git clone https://github.com/JJ1980-1/kali_xfce_ChromeOS.git && cd kali_xfce_ChromeOS && chmod +x kali_xfce_ChromeOS_2.0.sh && sudo ./kali_xfce_ChromeOS_2.0.sh
+git clone https://github.com/JJ1980-1/kali_xfce_ChromeOS.git && cd kali_xfce_ChromeOS && chmod +x kali_xfce_ChromeOS_2.1.sh && sudo ./kali_xfce_ChromeOS_2.1.sh
 
 Follow step 5 + 6
 
 ---
 
-git clone https://github.com/JJ1980-1/kali_xfce_ChromeOS.git && cd kali_xfce_ChromeOS && chmod +x kali_xfce_ChromeOS_2.0.1.sh && sudo ./kali_xfce_ChromeOS_2.0.1.sh
+git clone https://github.com/JJ1980-1/kali_xfce_ChromeOS.git && cd kali_xfce_ChromeOS && chmod +x kali_xfce_ChromeOS_2.1.1.sh && sudo ./kali_xfce_ChromeOS_2.1.1.sh
 
 Follow step 5 + 6
 
