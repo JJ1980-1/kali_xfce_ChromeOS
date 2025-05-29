@@ -6,7 +6,7 @@ echo " "
 sed -i 's/^deb https:\/\/deb.debian.org\/debian bookworm main/deb https:\/\/deb.debian.org\/debian bookworm main/' /etc/apt/sources.list
 sed -i 's/^deb https:\/\/deb.debian.org\/debian bookworm-updates main/deb https:\/\/deb.debian.org\/debian bookworm-updates main/' /etc/apt/sources.list
 sed -i 's/^deb https:\/\/deb.debian.org\/debian-security\/ bookworm-security main/deb https:\/\/deb.debian.org\/debian-security\/ bookworm-security main/' /etc/apt/sources.list
-echo 'deb http://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware' >> /etc/apt/sources.list
+echo 'deb https://http.kali.org/kali kali-rolling main contrib non-free non-free-firmware' >> /etc/apt/sources.list
 clear
 echo "Installing keyring"
 echo " "
